@@ -42,7 +42,7 @@ public class MyServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		// API setup
-		String apiKey = "d84cb3a62c4320755db3239434a284c6";
+		String apiKey = "Openweather API key";
 		
 		// Get city from the input
 		String city = request.getParameter("city");
