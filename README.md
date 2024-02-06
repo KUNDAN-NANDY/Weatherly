@@ -5,6 +5,7 @@ A weather website utilising HTML, CSS, JavaScript, Java, Servlet, JSP, and the O
 ## Screenshots
 
 ![App Screenshot](https://github.com/KUNDAN-NANDY/Weatherly/blob/main/src/main/webapp/images/Screenshot1.png)
+![App Screenshot](https://github.com/KUNDAN-NANDY/Weatherly/blob/main/src/main/webapp/images/Screenshot2.png)
 
 
 ## Video
