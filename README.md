@@ -9,5 +9,6 @@ A weather website utilising HTML, CSS, JavaScript, Java, Servlet, JSP, and the O
 
 
 ## Video
+Click here to see how it works -->
+https://github.com/KUNDAN-NANDY/Weatherly/assets/78585314/7e08776a-50ec-4c5f-a3c5-cfd484f0ea06
 
-[Documentation](https://github.com/KUNDAN-NANDY/Weatherly/blob/main/video/ScreenRecording.mov)
